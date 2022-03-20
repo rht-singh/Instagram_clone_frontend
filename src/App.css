@@ -1,0 +1,30 @@
+.bell{
+    color:"white"; 
+    margin-right:"33px";
+}
+
+.bolo{
+    height:"44px";
+    width:"44px";
+}
+
+.pr{
+    position: relative;
+}
+.center-box{
+    width: 90%;
+    margin-left: 5%;
+    position: absolute;
+    top: 190px;
+    background-color: rgb(253, 249, 249);
+
+}
+
+@media screen and (max-width:800){
+    .center-box{
+        width: 100%;
+        position: inherit;
+    
+    }
+    
+}
