@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DudaWeb/static/css/main.bab0b925.chunk.css",
+    "main.js": "/DudaWeb/static/js/main.47fe2314.chunk.js",
+    "main.js.map": "/DudaWeb/static/js/main.47fe2314.chunk.js.map",
+    "runtime-main.js": "/DudaWeb/static/js/runtime-main.322fe995.js",
+    "runtime-main.js.map": "/DudaWeb/static/js/runtime-main.322fe995.js.map",
+    "static/js/2.8b6bee78.chunk.js": "/DudaWeb/static/js/2.8b6bee78.chunk.js",
+    "static/js/2.8b6bee78.chunk.js.map": "/DudaWeb/static/js/2.8b6bee78.chunk.js.map",
+    "index.html": "/DudaWeb/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/DudaWeb/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.8b6bee78.chunk.js.LICENSE.txt": "/DudaWeb/static/js/2.8b6bee78.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.322fe995.js",
+    "static/js/2.8b6bee78.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.47fe2314.chunk.js"
+  ]
+}
